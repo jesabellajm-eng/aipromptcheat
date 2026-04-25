@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aipromptcheat.com/sitemap.xml
+Sitemap: https://aipromptcheat.net/sitemap.xml
